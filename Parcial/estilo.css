@@ -1,0 +1,22 @@
+img {
+
+    float: left;
+    border-radius: 10px;
+
+}
+input{
+
+    background-color: rgb(255, 255, 255);
+    padding: 90px 90px 90px 1010px;
+    margin: auto;
+
+}
+button{
+    background-color: #f76540;
+    color: white;
+    padding: 15px 15px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 10px;
+
+}
